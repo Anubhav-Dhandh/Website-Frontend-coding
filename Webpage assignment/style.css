@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  .menu-bar{
+    background-image: linear-gradient(to right, #61A8EF, #7ce08a);
+  }
+  
+  .navbar-brand p{
+    font-size: 30px;
+    font-weight: 900;
+    color: rgba(44, 44, 156, 0.904);
+  }
+  .navbar-brand p span{
+    font-size: 30px;
+    -webkit-text-stroke: 1.5px black;
+    font-weight: 900;
+    color: #61A8EF;
+  }
+  .nav-link{
+    font-size: 24px;
+    font-weight: 500;
+    color:rgb(0, 0, 0) ;
+    margin: 3px;
+  }
+  
+  .navbar-nav{
+    text-align: right;
+  }
+  
+  .menubar .navbar-toggler{
+    padding-right: 10px;
+    border: none;
+    outline: none;
+  }
+  
+  .banner{
+    height: 80vh;
+    background-image: url("https://static.statusqueen.com/desktopwallpaper/thumbnail/fog-is-over-dubai-photography-493.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  
+  .banner p{
+    font: helvetica;
+    padding-top: 180px;
+    font-size: 70px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    color:  rgba(44, 44, 156, 0.904);
+  }
+  .banner p span{
+  
+    color: #61A8EF; 
+    text-decoration: underline;
+    
+    
+  }
+
+  .button {
+    padding-top: 125px;
+  }
+
+
+  .button1 {
+    
+    font:  sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 12px 50px;
+    border-radius: 2px;
+   
+    margin: 20px;
+    color: #fff;
+    cursor: pointer;
+  }
+  .button2 {
+    
+    font:  sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 12px 50px;
+    border-radius: 2px;
+   
+    margin: 20px;
+    color: #fff;
+    cursor: pointer;
+  }
+  .button1 {background-color: rgb(27, 27, 226)}
+
+  .button2 {background-color: rgb(27, 27, 226)} 
+  /* Details*/
+
+.container {
+  padding-top: 140px;
+}
+.container span{
+  font-size: 30px;
+}
+.bootcamp-info {
+  padding-top: 30px;
+}
+
+  
+ 
+  
+  /* Site stat section */
+  
+  #site-stats{
+    padding: 90px 0;
+  }
+  
+  #site-stats h2{
+    margin-bottom: 30px;
+  }
+  .container h2{
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .stats-box{
+    
+    padding: 80px;
+    border-radius: 10px;
+    margin: 40px;
+    box-shadow: 0 2px 40px 0 rgba(110, 130, 208, 0.18);
+  }
+  .stats-box p{
+font-size: 24px;
+  }
+  
+  
+  /* App banner section */
+  
+  #app-banner{
+    background-image: linear-gradient(to right, #61A8EF, #7ce08a);
+    padding: 50px 0;
+  }
+  
+  #app-banner h1{
+    margin-top: 20px;
+    color: #fff;
+  }
+  #app-banner img{
+    width: 150px;
+    margin: 50px 10px;
+  }
+  
+  #app-banner .ply{
+    height: 82px;
+    width: 170px;
+  }
+
+  #app-banner a{
+    font-size: 20px;
+    color: black;
+  }
+  
+  #footer{
+    background: rgb(255, 254, 254);
+    padding: 20px 10px 8px;
+  }
+  
+  #footer img{
+    height: 40px;
+    width: 50px;
+  }
+  
